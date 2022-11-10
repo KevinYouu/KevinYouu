@@ -8,7 +8,7 @@
 
 ## Github Stats
 
-[![KevinYouu's github stats](https://github-readme-stats.vercel.app/api?username=KevinYouu&show_icons=true&theme=react)]()
+[![KevinYouu's github stats](https://github-readme-stats.vercel.app/api?username=KevinYouu&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## Top Languages
 
