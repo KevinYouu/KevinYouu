@@ -4,7 +4,7 @@
 
 ## Activity Graph
 
-[![KevinYouu's github activity graph](https://activity-graph.herokuapp.com/graph?username=KevinYouu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KevinYouu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KevinYouu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Github Stats
 
