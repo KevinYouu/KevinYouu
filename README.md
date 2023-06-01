@@ -3,7 +3,7 @@
 
 ## Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,vite,nodejs,go,linux,docker,nginx,postgres,mongodb,mysql,html,css,git,github,vscode,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,vite,nodejs,babel,go,linux,bash,docker,nginx,postgres,mongodb,mysql,html,css,md,git,github,vscode,stackoverflow,aws,azure,cloudflare,gcp)
 
 ## Activity Graph
 
