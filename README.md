@@ -3,7 +3,21 @@
 
 ## Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,vite,nodejs,babel,go,linux,bash,docker,nginx,postgres,mongodb,mysql,html,css,md,git,github,vscode,stackoverflow,aws,azure,cloudflare,gcp)
+### Frontend
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,vite)
+
+### Backend
+
+![My Skills](https://skillicons.dev/icons?i=go,linux,bash,docker,nginx)
+
+### DataBases
+
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql)
+
+### Tools
+
+![My Skills](https://skillicons.dev/icons?i=md,git,vscode,stackoverflow,aws,azure,cloudflare,gcp)
 
 ## Activity Graph
 
