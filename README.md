@@ -4,21 +4,21 @@
 
 ## Languages and Tools
 
-### Front-end
+### Frontend
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,vite)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,vite)
 
 ### Backend
 
-![My Skills](https://skillicons.dev/icons?i=go,linux,bash,docker,nginx)
+![Backend](https://skillicons.dev/icons?i=go,linux,bash,docker,nginx)
 
 ### DataBases
 
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql)
+![DataBases](https://skillicons.dev/icons?i=postgres,mysql)
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=md,git,vscode,stackoverflow,aws,azure,cloudflare,gcp)
+![Tools](https://skillicons.dev/icons?i=md,git,vscode,stackoverflow)
 
 ## Activity Graph
 
