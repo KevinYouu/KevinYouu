@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm KevinYouu</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
-<h3 align="center">Embarking on a journey to become a full-stack engineer</h3>
+<h3 align="center">A passionate full-stack developer from China</h3>
+<h3>To learn more about me, please click <a href="https://www.kevnu.com/about" target="_blank">here</a></h3>
+<h3>To contact me, please send an <a href="mailto:cool@kevnu.com">email</a></h3>
 
 ## Languages and Tools
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,vite)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,ts,vite,electron)
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=go,linux,bash,docker,nginx)
-
-### DataBases
-
-![DataBases](https://skillicons.dev/icons?i=postgres,mysql)
+![Backend](https://skillicons.dev/icons?i=go,postgres,docker,nginx,linux,bash)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=md,git,vscode,stackoverflow)
+![Tools](https://skillicons.dev/icons?i=md,git,githubactions,vscode,stackoverflow)
 
 ## Activity Graph
 
@@ -29,9 +26,6 @@
 [![KevinYouu's github stats](https://github-readme-stats.vercel.app/api?username=KevinYouu&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevinyouu&theme=dark)](https://git.io/streak-stats)
-
-<!-- 🌐 Personal Website: [My blog](https://www.yourwebsite.com)
-📫 Email: [Email](mailto:your-email@example.com) -->
 
 <!-- ## Top Languages
 
