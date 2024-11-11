@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm KevinYouu</h1>
 <h3 align="center">A passionate full-stack developer from China</h3>
-<h3>To learn more about me, please click <a href="https://www.kevnu.com/about" target="_blank">here</a></h3>
-<h3>To contact me, please send an <a href="mailto:cool@kevnu.com">email</a></h3>
 
 ## Languages and Tools
 
@@ -27,6 +25,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevinyouu&theme=dark)](https://git.io/streak-stats)
 
-<!-- ## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYouu&layout=compact&theme=react)]() -->
+<h3><a href="https://www.kevnu.com/about" target="_blank">My Blog</a></h3>
+<h3><a href="mailto:cool@kevnu.com">✉️ Email</a></h3>
